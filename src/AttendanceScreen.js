@@ -13,6 +13,24 @@ const AttendanceScreen = () => {
     const sampleStudents = [
       { name: "AKSHAR", rollNo: "1", prn: "2114110249" },
       { name: "ABHISHEK ANAND", rollNo: "2", prn: "2114110250" },
+      { name: "SHUBHAM RAHUL ATHALE", rollNo: "3", prn: "2114110251" },
+      { name: "YASH BHARDWAJ", rollNo: "4", prn: "2114110252" },
+      { name: "PALAK UDAYSING CHANDEL", rollNo: "5", prn: "2114110253" },
+      { name: "PRATEEK CHATURVEDI", rollNo: "6", prn: "2114110254" },
+      { name: "MANISH CHAURASIA", rollNo: "7", prn: "2114110255" },
+      { name: "HARSHIT GAUR", rollNo: "8", prn: "2114110256" },
+      { name: "SHRUTI JAIN", rollNo: "9", prn: "2114110258" },
+      { name: "BHASKAR JAISWAL", rollNo: "10", prn: "2114110259" },
+      { name: "AYUSH KUMAR JHA", rollNo: "11", prn: "2114110260" },
+      { name: "AMZAD RAZAA KHAN", rollNo: "12", prn: "2114110261" },
+      { name: "PUNEET KUMAR", rollNo: "13", prn: "2114110262" },
+      { name: "ANIKET KUMAR", rollNo: "14", prn: "2114110263" },
+      { name: "UJJAWAL KUMAR", rollNo: "15", prn: "2114110264" },
+      { name: "PALLAVI KUMARI", rollNo: "16", prn: "2114110266" },
+      { name: "PRAKHAR PANT", rollNo: "17", prn: "2114110267" },
+      { name: "NEHAL PARASHAR", rollNo: "18", prn: "2114110268" },
+      { name: "MANU PRATAP SINGH PARIHAR", rollNo: "19", prn: "2114110269" },
+      { name: "NILANSHI PUROHIT", rollNo: "20", prn: "2114110270" },
       // Add more sample students as needed
     ];
 
