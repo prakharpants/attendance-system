@@ -64,6 +64,7 @@ const AttendanceScreen = () => {
       );
 
       console.log("Attendance submitted successfully:", response.data);
+      console.log("Attendance submitted successfully:");
 
       // Update UI or show success message
       setAttendanceList([...attendanceList, requestData]); // Update the frontend list
