@@ -164,7 +164,7 @@ const AttendanceScreen = () => {
         </div>
       </main>
       <footer>
-        <p>&copy; PBL by Prakhar, Manu, Ashutosh, Himanshu, Yash</p>
+        <p>&copy; PBL by Prakhar, Manu, Ashutosh, Himanshu</p>
       </footer>
     </div>
   );
